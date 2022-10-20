@@ -1,0 +1,26 @@
+Kebutuhan-kebutuhan fungsional dan non-fungsional
+Siti 
+Lintang
+Fikri
+
+
+Kebutuhan-kebutuhan pengguna
+Rida
+Bambang
+
+
+Kebutuhan-kebutuhan sistem
+Defa
+Adit
+
+
+Spesifikasi antar-muka (interface)
+Ulwan
+Ridan
+Teguh
+
+
+Note :
+
+- Batas akhir tgl 02 Nov 2022
+
